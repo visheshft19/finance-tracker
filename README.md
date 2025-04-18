@@ -15,6 +15,3 @@ Managing money can be stressful — this app is built to make it simple. Whether
 
 ### 🚀 Getting Started
 
-1. Clone the repo:
-   ```bash
-   git clone git@github.com:visheshft19/finance-tracker.git
